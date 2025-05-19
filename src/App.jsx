@@ -1,3 +1,8 @@
+import useSwitch from './useSwitch'
+import useDate from './useDate'
+import useCustomPointer from './useCustomPointer'
+
+
 function App() {
   return (
     <div className="App">
